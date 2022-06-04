@@ -103,10 +103,10 @@ section:first-child .parallax{
   background-image: url("../images/img1.jpeg");
 }
 section:nth-child(2) .parallax{
-  background-image: url("../images/img1.jpeg");
+  background-image: url("../images/img2.jpeg");
 }
 section:nth-child(3) .parallax{
-  background-image: url("../images/img1.jpeg");
+  background-image: url("../images/img3.jpeg");
 }
 section:nth-child(4) .parallax{
   background-image: url("../images/img4.jpeg");
